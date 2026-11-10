@@ -1,6 +1,6 @@
 # Numerical Modelling of Reactive CO₂ Absorption in Packed Columns
 
-**Course:** CLL113 — Numerical Methods in Chemical Engineering  
+**Course:** CHL2001 — Numerical Methods in Chemical Engineering  
 **Instructor:** Prof. Jayati Sarkar · Department of Chemical Engineering, IIT Delhi  
 **Author:** Krishan Sawariya · Oct 2026 – Nov 2026  
 **Languages:** C++17 · Python 3 (NumPy, Pandas, Matplotlib)
